@@ -35,7 +35,7 @@ The repository contains the following folders and files:
 - `workflow.R`: a script designed to show the data construction process, with the year 2019 being shown as an example 
 
  
-# NBA and programming background
+# NBA and Programming Background
 
 This code assumes the user is familiar with both R and Rmarkdown, and Python and Jupyter Notebooks. Further, the user may benefit with knowledge of supervised classification models, including such models of Logistic Regression, Random Forest, Support Vector Machine, and Naive Bayes. The user may benefit from learning NBA box score statistics and rules.
 
